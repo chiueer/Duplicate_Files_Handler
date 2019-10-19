@@ -1,0 +1,16 @@
+< Delete file successful! >
+  [path] G:\Git\Duplicate_Files_Handler\src\test_after/file(1).txt
+  [fileName] file(1).txt
+
+< Delete file successful! >
+  [path] G:\Git\Duplicate_Files_Handler\src\test_after/a/aaa(1).txt
+  [fileName] aaa(1).txt
+
+< Delete file successful! >
+  [path] G:\Git\Duplicate_Files_Handler\src\test_after/b/fff(1).txt
+  [fileName] fff(1).txt
+
+< Delete file successful! >
+  [path] G:\Git\Duplicate_Files_Handler\src\test_after/b/lalal/ddd(1).txt
+  [fileName] ddd(1).txt
+
